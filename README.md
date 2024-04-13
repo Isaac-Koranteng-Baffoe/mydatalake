@@ -1,2 +1,2 @@
 # mydatalake
-this my personal data lake
+this is my personal data lake
