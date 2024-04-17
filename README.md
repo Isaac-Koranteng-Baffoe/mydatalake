@@ -1,2 +1,2 @@
- mydatalake
-this is my personal data lake
+DevOps Practics
+my files torage locations
