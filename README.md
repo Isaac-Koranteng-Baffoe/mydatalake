@@ -1,2 +1,1 @@
-# mydatalake
-this my personal data lake
+DevOps Practics files
